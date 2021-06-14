@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/wilawankulab/.dotnet/store/|arch|/|tfm|",
+      "/Users/wilawankulab/.nuget/packages"
+    ]
+  }
+}

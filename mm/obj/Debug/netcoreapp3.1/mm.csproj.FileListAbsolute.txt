@@ -1,0 +1,12 @@
+/Users/wilawankulab/Projects/mm/mm/bin/Debug/netcoreapp3.1/mm.deps.json
+/Users/wilawankulab/Projects/mm/mm/bin/Debug/netcoreapp3.1/mm.runtimeconfig.json
+/Users/wilawankulab/Projects/mm/mm/bin/Debug/netcoreapp3.1/mm.runtimeconfig.dev.json
+/Users/wilawankulab/Projects/mm/mm/bin/Debug/netcoreapp3.1/mm.dll
+/Users/wilawankulab/Projects/mm/mm/bin/Debug/netcoreapp3.1/mm.pdb
+/Users/wilawankulab/Projects/mm/mm/obj/Debug/netcoreapp3.1/mm.csprojAssemblyReference.cache
+/Users/wilawankulab/Projects/mm/mm/obj/Debug/netcoreapp3.1/mm.AssemblyInfoInputs.cache
+/Users/wilawankulab/Projects/mm/mm/obj/Debug/netcoreapp3.1/mm.AssemblyInfo.cs
+/Users/wilawankulab/Projects/mm/mm/obj/Debug/netcoreapp3.1/mm.csproj.CoreCompileInputs.cache
+/Users/wilawankulab/Projects/mm/mm/obj/Debug/netcoreapp3.1/mm.dll
+/Users/wilawankulab/Projects/mm/mm/obj/Debug/netcoreapp3.1/mm.pdb
+/Users/wilawankulab/Projects/mm/mm/obj/Debug/netcoreapp3.1/mm.genruntimeconfig.cache
